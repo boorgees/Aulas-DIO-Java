@@ -1,0 +1,12 @@
+{
+    "java.project.sourcePaths": [
+        "src",
+        "smart-tv",
+        "tipos-variaveis/src",
+        "smart-tv\\sistema-smart-tv\\src",
+        "."
+    ],
+    "java.project.outputPath": "bin",
+    "java.project.referencedLibraries": [],
+    "java.debug.settings.onBuildFailureProceed": true
+}
