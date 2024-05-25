@@ -31,7 +31,7 @@ public class Calculadora {
 
 public int somaMultiplica (int n, int x, String m){
     int r ; // r é igual ao resultado
-    if (m == "M"){ // M= multiplicação
+    if ("M".equals(m)){ // M= multiplicação
         r = n * x;
     }else{
         // se não soma mesmo
