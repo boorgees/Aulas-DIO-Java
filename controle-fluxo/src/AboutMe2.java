@@ -2,7 +2,7 @@ import java.util.InputMismatchException;
 import java.util.Locale;
 import java.util.Scanner;
 
-public class AboutMe {
+public class AboutMe2 {
     public static void main(String[] args) {
         
             try (Scanner scanner = new Scanner(System.in).useLocale(Locale.US)) {
@@ -25,3 +25,6 @@ public class AboutMe {
             }
     }
 }
+
+
+ 
